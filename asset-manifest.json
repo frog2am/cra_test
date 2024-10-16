@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/frog2am/cra_test/static/js/main.e349a22b.js",
+    "index.html": "/frog2am/cra_test/index.html",
+    "main.e349a22b.js.map": "/frog2am/cra_test/static/js/main.e349a22b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e349a22b.js"
+  ]
+}
